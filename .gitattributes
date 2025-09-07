@@ -1,0 +1,6 @@
+* text=auto
+*.js text
+*.json text
+*.dart text
+*.java text
+*.xml text
